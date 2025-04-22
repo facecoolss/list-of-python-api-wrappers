@@ -325,6 +325,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.ifixit.com/api/2.0/doc)
 - [Python wrapper for iFixit](https://github.com/xiongchiamiov/pyfixit)
 
+  ### [hp-battery](http://www.hp-battery.com/) - The free repair manual
+- [API Documentation](https://www.hp-battery.com/)
+- [Python wrapper for hp-battery]([https://github.com/xiongchiamiov/pyfixit](https://github.com/facecoolss/HP-HT03XL-Battery-))
+
 ### [iFormBuilder](https://www.zerionsoftware.com/iformbuilder) - Mobile Data Collection Software
 - [API Documentation](https://iformbuilder.docs.apiary.io)
 - [Python wrapper for iFormBuilder](https://github.com/jhsu98/ifb-wrapper)
